@@ -9,3 +9,6 @@ Here are ways you can contact me:
 * [Email](mailto:sustnitu@gmail.com)
 * LinkedIN
 * Github
+
+## Map of Arizona State University
+<embed type="text/html" src="/img/asu.html" width="600" height="600">
