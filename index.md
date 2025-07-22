@@ -11,4 +11,4 @@ Here are ways you can contact me:
 * Github
 
 ## Map of Arizona State University
-<embed type="text/html" src="/img/asu(2).html" width="1400" height="1400">
+<embed type="text/html" src="/img/asu.html" width="1400" height="1400">
