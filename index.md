@@ -9,7 +9,10 @@ Here are ways you can contact me:
 * [Email](mailto:sustnitu@gmail.com)
 * LinkedIN
 * Github
+
+  
 ## From ESIIL Data Short Course
+
 ## Exercise 1: Embedding a Location Map Using OpenStreetMap
 
 In this exercise, I embedded a map showing the location of my current workplace. The map was created using OpenStreetMap and highlights the specific area of my work location in Tempe, Arizona.
