@@ -9,6 +9,16 @@ Here are ways you can contact me:
 * [Email](mailto:sustnitu@gmail.com)
 * LinkedIN
 * Github
+## From ESIIL Data Short Course
+## Exercise 1: Embedding a Location Map Using OpenStreetMap
+
+In this exercise, I embedded a map showing the location of my current workplace. The map was created using OpenStreetMap and highlights the specific area of my work location in Tempe, Arizona.
 
 ## Map of Arizona State University
 <embed type="text/html" src="/img/asu.html" width="800" height="600">
+
+## Exercise 2: Visualizing Annual Average Temperature in Karachi, Pakistan
+
+In this exercise, I created a plot showing the annual trend of average temperature in Karachi, Pakistan. This visualization helps illustrate long-term temperature patterns in the region and supports climate-related insights.
+
+<embed type="text/html" src="/img/annual_climate_plot.html" width="800" height="600">
