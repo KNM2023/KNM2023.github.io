@@ -31,5 +31,5 @@ In this exercise, I created a plot showing the annual trend of average temperatu
 I learned to load geospatial raster data with code and overlay it with vector boundaries.I then computed statistical summaries (mean) of raster values to evaluate vegetation health 2013-2025 vs 2001-2012 under groundwater irrigation.
 
 ## Spatial Change of NDVI
-<embed type="text/html" src="/img/Tuburjal_NDVI_Difference.html" width="800" height="600">
+<embed type="text/html" src="/img/Tuburjal_NDVI_Difference" width="800" height="600">
 
