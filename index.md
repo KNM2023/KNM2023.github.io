@@ -25,7 +25,7 @@ In this exercise, I embedded a map showing the location of my current workplace.
 In this exercise, I created a plot showing the annual trend of average temperature in Karachi, Pakistan. This visualization helps illustrate long-term temperature patterns in the region and supports climate-related insights.
 
 ## Annual Average Temperature in Karachi, Pakistan
-<embed type="text/html" src="/img/annual_climate_plot.html" width="800" height="400">
+<embed type="text/html" src="/img/annual_climate_plot.html" width="800" height="250">
 
 ## Exercise 3: Visualizing Tubarjal NDVI Differences
 I learned to load geospatial raster data with code and overlay it with vector boundaries.I then computed statistical summaries (mean) of raster values to evaluate vegetation health 2013-2025 vs 2001-2012 under groundwater irrigation.
