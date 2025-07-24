@@ -18,7 +18,7 @@ Here are ways you can contact me:
 In this exercise, I embedded a map showing the location of my current workplace. The map was created using OpenStreetMap and highlights the specific area of my work location in Tempe, Arizona.
 
 ## Map of Arizona State University
-<embed type="text/html" src="/img/asu.html" width="800" height="600">
+<embed type="text/html" src="/img/asu.html" width="600" height="400">
 
 ## Exercise 2: Visualizing Annual Average Temperature in Karachi, Pakistan
 
