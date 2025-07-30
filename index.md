@@ -37,6 +37,7 @@ I learned how to analyze spatial and time-series data and document my work using
   ### Decadal Change in Urban Greenery in Tempe, AZ (2014–2024)
   In this assignment, I applied skills in spatial data analysis, mapping, and open science to examine changes in urban greenery in Tempe, Arizona from 2014 to 2024.
   I analyzed satellite (Landsat ) imagery, processed time-series and spatial data, and documented my workflow using GitHub and Markdown.  
+  
   ##### Tempe Greenery Patterns ((2014–2024)
   Following figure  presents yearly NDVI maps for Tempe from 2014 to 2024. Across all years, greener areas (higher NDVI) are mainly found in city parks and irrigated 
   zones, while the rest of  the city maintains moderate to low NDVI values. The general spatial distribution of greenery remains similar year after year.
@@ -51,25 +52,31 @@ I learned how to analyze spatial and time-series data and document my work using
   The monthly mean NDVI for each year as line plots shows All years follow a similar seasonal pattern, with higher NDVI in the spring and early summer,
   and lower values  in winter. The overall height of the lines in recent years is a bit lower compared to the start of the decade.
   <embed type="text/html" src="/img/monthly_ndvi_trends_year.html" width="800" height="600">
+  
   ##### Decadal Change
   From the decadal change map, most of Tempe displays light red shades, indicating a slight decrease in NDVI over the decade. Only small areas appear blue,
   reflecting modest increases in vegetation. These changes are subtle and spread throughout the city.
   ![Figure 4](img/tempe_decadal_ndvi_change.png)
 
   #### Assignment Workflow
+  
   ##### 1. Data Collection
   Obtain monthly NDVI raster data (e.g., from Google Earth Engine) for each year from 2014 to 2024. Acquire the Tempe city boundary shapefile for spatial masking.
+  
   ##### 2. Preprocessing
   * Clip all NDVI rasters to the Tempe boundary to focus analysis on the area of interest.
   * Check raster alignment to ensure all datasets are on the same grid and projection.
   * Mask and remove pixels outside the Tempe boundary.
+ 
   ##### 3. Annual and Monthly Aggregation
   * For each year, calculate the annual mean NDVI by averaging monthly NDVI rasters.
   * For trend analysis, extract mean NDVI values for each month and year.
+  
   ##### 4. Visualization
   * Create annual NDVI maps (Figure 1) to visualize spatial patterns of greenery for each year.
   * Plot monthly NDVI trends for each year as line graphs (Figure 4) to observe seasonal variations.
   * Summarize annual NDVI distributions with boxplots for all years (Figure 3).
+ 
   ##### 5. Decadal Change Calculation
   * Compute pixel-wise NDVI difference: Subtract the 2014 annual mean NDVI raster from the 2024 annual mean NDVI raster.
   * Visualize decadal NDVI change as a color-coded map (Figure 2), with blue showing gains and red showing losses in vegetation.
