@@ -17,19 +17,19 @@ Here are ways you can contact me:
   In this exercise, I embedded a map showing the location of my current workplace. The map was created using OpenStreetMap and highlights the specific area of my work location in Tempe, Arizona.
 
 ### Map of Arizona State University
-<embed type="text/html" src="/img/asu.html" width="600" height="400">
+<embed type="text/html" src="/img/asu.html" width="670" height="400">
 
 ### Exercise 2: Visualizing Annual Average Temperature in Karachi, Pakistan
   In this exercise, I created a plot showing the annual trend of average temperature in Karachi, Pakistan. This visualization helps illustrate long-term temperature patterns in the region and supports climate-related insights.
 
 ### Annual Average Temperature in Karachi, Pakistan
-<embed type="text/html" src="/img/annual_climate_plot.html" width="600" height="250">
+<embed type="text/html" src="/img/annual_climate_plot.html" width="670" height="250">
 
 ### Exercise 3: Visualizing Tubarjal NDVI Differences
   I learned to load geospatial raster data with code and overlay it with vector boundaries.I then computed statistical summaries (mean) of raster values to evaluate vegetation health 2013-2025 vs 2001-2012 under groundwater irrigation.
 
 ### Spatial Change of NDVI
-<embed type="text/html" src="/img/Tuburjal_NDVI_Difference" width="600" height="400">
+<embed type="text/html" src="/img/Tuburjal_NDVI_Difference" width="670" height="400">
 
 ### Assignment and Reflection
 I learned how to analyze spatial and time-series data and document my work using GitHub and Markdown. I practiced working with satellite imagery . This  helped me understand the steps involved in open and reproducible science.
@@ -51,7 +51,7 @@ I learned how to analyze spatial and time-series data and document my work using
   ![Figure 3](img/monthly_mean_ndvi_boxplot.png)
   The monthly mean NDVI for each year as line plots shows All years follow a similar seasonal pattern, with higher NDVI in the spring and early summer,
   and lower values  in winter. The overall height of the lines in recent years is a bit lower compared to the start of the decade.
-  <embed type="text/html" src="/img/monthly_ndvi_trends_year.html" width="600" height="400">
+  <embed type="text/html" src="/img/monthly_ndvi_trends_year.html" width="670" height="400">
   
 ### Decadal Change
   From the decadal change map, most of Tempe displays light red shades, indicating a slight decrease in NDVI over the decade. Only small areas appear blue,
